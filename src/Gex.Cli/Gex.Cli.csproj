@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Gex.Cli</AssemblyName>
+    <RootNamespace>Gex.Cli</RootNamespace>
+	  <EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Gex.Core\Gex.Core.csproj" />
+  </ItemGroup>
+</Project>
