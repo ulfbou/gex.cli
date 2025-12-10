@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <!-- To use .NET 10 preview, uncomment below: -->
+    <!-- <TargetFramework>net10.0</TargetFramework> -->
+  </PropertyGroup>
+</Project>
