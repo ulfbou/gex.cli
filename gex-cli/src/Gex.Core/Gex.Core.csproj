@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;net10.0</TargetFrameworks>
+    <RootNamespace>Gex.Core</RootNamespace>
+    <AssemblyName>Gex.Core</AssemblyName>
+  </PropertyGroup>
+
+</Project>
